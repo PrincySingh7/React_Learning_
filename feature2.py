@@ -1,0 +1,2 @@
+
+prin("Printing odd number")
